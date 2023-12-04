@@ -2,3 +2,4 @@ Fitur
 -logo
 -button
 -side bar
+-background
