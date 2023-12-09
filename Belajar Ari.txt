@@ -1,2 +1,4 @@
 - Menguasai GIT (SUDAH)
-- SQL dan mempelajari fitur SQLYOG (onproses)
+- SQL dan mempelajari fitur SQLYOG 
+- Sudah menguasai java
+(onproses)
